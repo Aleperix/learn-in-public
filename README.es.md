@@ -77,13 +77,13 @@ Tu perfil debe verse como el siguiente:
 El archivo YML consta de 4 secciones principales:
 
 ```yml
-tema: Puedes elegir un tema y colores de piel.
+theme: Puedes elegir un tema y colores de piel.
 basic_info: información personal.
-educacion: Estudios previos.
-Experiencias: Trabajos anteriores.
-proyectos: Describe los proyectos que has creado como desarrollador.
-publicaciones: Cualquier artículo que hayas publicado.
-Habilidades: Enumera tus habilidades con un porcentaje de experiencia.
+education: Estudios previos.
+experiences: Trabajos anteriores.
+projects: Describe los proyectos que has creado como desarrollador.
+publications: Cualquier artículo que hayas publicado.
+skills: Enumera tus habilidades con un porcentaje de experiencia.
 ```
 
 <p align="center">
